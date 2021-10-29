@@ -1,14 +1,5 @@
 # Belongs at: /_data/navigation.yml
 
-- title: Home
+- title: Overview
   url: /
-
-- title: Group
-  url: /group.html
-  
-- title: Research
-  url: /research.html
-  
-- title: Pub
-  url: /pub.html
  
