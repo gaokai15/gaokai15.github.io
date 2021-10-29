@@ -62,11 +62,11 @@ nav {
   #logo {
     position:absolute;
     height: 36px;
-    width: 36px;
-    right:7px;
+    width: 100%;
+    right:0;
     top:7px;
     display: block;
-    background: url(../images/octocat-logo.png);
+    background: #00ffff;
   }
 }
 
