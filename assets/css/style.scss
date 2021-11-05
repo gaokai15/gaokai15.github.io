@@ -107,6 +107,7 @@ header {
 
 #banner {
   top: 80px;
+  width: 100%;
   background: #808B96;
   border: 1px solid  #566573;
 
@@ -173,43 +174,6 @@ section {
 
     p { display: none;}
   }
-
-  #banner {
-    top: 80px;
-
-    .homefork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:5px;
-
-      }
-
-    .groupfork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:75px;
-      }
-
-   .resfork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:146px;
-      }
-
-    .pubfork {
-      float: left;
-      display: inline-block;
-      margin-left: 0px;
-    position:fixed;
-    left:237px;
-      }
- }
 
   section {
     margin-top: 130px;
