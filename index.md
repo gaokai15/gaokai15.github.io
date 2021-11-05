@@ -14,14 +14,32 @@ Email: kg627 [AT] scarletmail.rutgers.edu
   </tr>
 </table>
 
+<style>
+divp {
+  float: left;
+  width: 120px;
+  margin: 1px 10px 1px 1px;
+  padding: 5px;
+  border: 1px solid black;
+  text-align: left;
+}
+divt {
+  float: right;
+  width: 500px;
+  margin: 1px 10px 1px 1px;
+  padding: 5px;
+  /* border: 1px solid black; */
+  text-align: left;
+}
+</style>
+
 ## Selected Projects
 <table>
   <tr>
     <td>
-      <video width="800" height="800" autoplay muted loop>
-            <source src="https://user-images.githubusercontent.com/53358252/140579661-f80efdb2-f28a-49fe-8e84-5f61536d3e8f.mp4" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
+      https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4
+      
+      
     </td>
     <td>
       Fast High-Quality Tabletop Rearrangement in Bounded Workspace.
