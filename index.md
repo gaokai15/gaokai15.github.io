@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 ## About
 <table>
@@ -19,8 +21,10 @@ Email: kg627 [AT] scarletmail.rutgers.edu
 <table>
   <tr>
     <td>
-      <video width="200" src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" data-canonical-src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
-</video>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="media/labeled_smaller_web.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
     </td>
     <td>
       Fast High-Quality Tabletop Rearrangement in Bounded Workspace.
