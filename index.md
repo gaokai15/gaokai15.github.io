@@ -4,16 +4,46 @@
 <table>
   <tr>
     <td>
-      <img width="800" src="media/me.png" alt="me"/>
+      <img width="1200" src="media/me.png" alt="me"/>
     </td>
     <td>
-      I'm a third-year doctoral student in Robotics at Rutgers, the State Univerisity of New Jersey, working with Professor Jingjin Yu. Currently, My research focuses on resolving combinatorial challenges in robot tasks and motion planning. Before arriving at Rutgers, I received a Bachelor's degree in Mathematics from the University of Science and Technology of China in 2019.
+      I'm a third-year doctoral student in Robotics at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. Currently, My research focuses on resolving combinatorial challenges in robot tasks and motion planning. Before arriving at Rutgers, I received a Bachelor's degree in Mathematics from <a href="http://en.ustc.edu.cn/"> the University of Science and Technology of China</a> in 2019.
 
 Email: kg627 [AT] scarletmail.rutgers.edu
     </td>
   </tr>
 </table>
 
+## Selected Projects
+<table>
+  <tr>
+    <td>
+      <video width="800" height="800" autoplay muted loop>
+            <source src="https://user-images.githubusercontent.com/53358252/140579661-f80efdb2-f28a-49fe-8e84-5f61536d3e8f.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      Fast High-Quality Tabletop Rearrangement in Bounded Workspace.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="1200" src="media/me.png" alt="me"/>
+    </td>
+    <td>
+      On Minimizing the Number of Running Buffers for Tabletop Rearrangement.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="1200" src="media/me.png" alt="me"/>
+    </td>
+    <td>
+      Capacitated Vehicle Routing with Target Geometric Constraints.
+    </td>
+  </tr>
+</table>
 
 
 ## Publications
