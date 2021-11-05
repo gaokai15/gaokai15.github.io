@@ -19,7 +19,7 @@ Email: kg627 [AT] scarletmail.rutgers.edu
 <table>
   <tr>
     <td>
-      <video width="1000" src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" data-canonical-src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+      <video width="200" src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" data-canonical-src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 </video>
     </td>
     <td>
@@ -28,7 +28,8 @@ Email: kg627 [AT] scarletmail.rutgers.edu
   </tr>
   <tr>
     <td>
-      <img width="1200" src="media/me.png" alt="me"/>
+      <video width="200" src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" data-canonical-src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
     </td>
     <td>
       On Minimizing the Number of Running Buffers for Tabletop Rearrangement.
@@ -36,7 +37,7 @@ Email: kg627 [AT] scarletmail.rutgers.edu
   </tr>
   <tr>
     <td>
-      <img width="1200" src="media/me.png" alt="me"/>
+      <video width="200" src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" data-canonical-src="https://user-images.githubusercontent.com/53358252/140580692-29037f2a-7441-4bcf-b275-01f52c8ac11c.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
     </td>
     <td>
       Capacitated Vehicle Routing with Target Geometric Constraints.
