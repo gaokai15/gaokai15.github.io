@@ -7,7 +7,7 @@ layout: default
   <tr>
     <td>
       <img width="800" src="media/me.png" alt="me"/>
-      <p align="center"><a href="Kai_Gao_CV.pdf">CV</a></p>
+      <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
       <p align="center"> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
     <td>
