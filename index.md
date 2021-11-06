@@ -75,7 +75,7 @@ S. W. Feng, **K. Gao**, J. Gong, and J. Yu. "Sensor Placement for Globally Optim
 S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal Perimeter Guarding." 2019 Robotics: Science and Systems (RSS 2019).
 
 
-## Other Submitted Works
+## Papers Under Review
 **K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
 E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
