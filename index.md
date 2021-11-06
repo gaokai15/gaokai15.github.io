@@ -1,23 +1,12 @@
 ---
 layout: default
 ---
-table {
-  border: 1px solid black;
-  table-layout: fixed;
-  width: 200px;
-}
 
-th,
-td {
-  border: 1px solid black;
-  width: 100px;
-  overflow: hidden;
-}
 ## About
 <table>
   <tr>
     <td>
-      <img width="1200" src="media/me.png" alt="me"/>
+      <img width="800" src="media/me.png" alt="me"/>
       <p align="center"><a href="Kai_Gao_CV.pdf">CV</a></p>
       <p align="center"> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
