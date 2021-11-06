@@ -39,9 +39,9 @@ td {
     </td>
     <td>
       <p>Fast High-Quality Tabletop Rearrangement in Bounded Workspace.</p>
-      <p>[<a href="media/ICRA_2022_TRLB_accompanying_video_compressed.mp4">video</a>]</p>
+      <p>[<a href="media/ICRA_2022_TRLB_accompanying_video_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
-      [<a href="https://github.com/arc-l/TRLBr">codes</a>]
+      [<a href="https://github.com/arc-l/TRLBr">codes</a>]</p>
     </td>
   </tr>
   <tr>
@@ -53,10 +53,10 @@ td {
     </td>
     <td>
       <p>[RSS 2021] On Minimizing the Number of Running Buffers for Tabletop Rearrangement.</p>
-      <p>[<a href="https://arc-l.github.io/pages/kai-rss-21.html">project page</a>]</p>
+      <p>[<a href="https://arc-l.github.io/pages/kai-rss-21.html">project page</a>]
       [<a href="https://www.youtube.com/watch?v=hbD-cumF_H4">video</a>]
       [<a href="http://www.roboticsproceedings.org/rss17/p033.pdf">paper</a>]
-      [<a href="https://github.com/arc-l/running-buffer">codes</a>]
+      [<a href="https://github.com/arc-l/running-buffer">codes</a>]</p>
     </td>
   </tr>
   <tr>
@@ -68,8 +68,8 @@ td {
     </td>
     <td>
       <p>[IROS 2021] Capacitated Vehicle Routing with Target Geometric Constraints.</p>
-      <p>[<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]</p>
-      [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]
+      <p>[<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]
+      [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]</p>
     </td>
   </tr>
 </table>
