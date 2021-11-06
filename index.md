@@ -28,6 +28,8 @@ Email: kg627 [AT] scarletmail.rutgers.edu
     </td>
     <td>
       Fast High-Quality Tabletop Rearrangement in Bounded Workspace.
+      [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
+      [<a href="https://github.com/arc-l/TRLBr">codes</a>]
     </td>
   </tr>
   <tr>
@@ -38,7 +40,11 @@ Email: kg627 [AT] scarletmail.rutgers.edu
       </video>
     </td>
     <td>
-      On Minimizing the Number of Running Buffers for Tabletop Rearrangement.
+      [RSS 2021] On Minimizing the Number of Running Buffers for Tabletop Rearrangement.
+      [<a href="https://arc-l.github.io/pages/kai-rss-21.html">project page</a>]
+      [<a href="https://www.youtube.com/watch?v=hbD-cumF_H4">video</a>]
+      [<a href="http://www.roboticsproceedings.org/rss17/p033.pdf">paper</a>]
+      [<a href="https://github.com/arc-l/running-buffer">codes</a>]
     </td>
   </tr>
   <tr>
@@ -49,7 +55,8 @@ Email: kg627 [AT] scarletmail.rutgers.edu
       </video>
     </td>
     <td>
-      Capacitated Vehicle Routing with Target Geometric Constraints.
+      [IROS 2021] Capacitated Vehicle Routing with Target Geometric Constraints.
+      [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]
     </td>
   </tr>
 </table>
