@@ -223,9 +223,6 @@ section {
 }
 
 @media print {
-  table {
-    border: 0 !important;
-  }
   #myHeader tr:first-of-type td {
     border: 0 !important;
   }
