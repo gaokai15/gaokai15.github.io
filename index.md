@@ -22,7 +22,7 @@ Email: kg627 [AT] scarletmail.rutgers.edu
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
-          <source src="media/labeled_smaller_web.mp4" type="video/mp4"> 
+          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
@@ -42,9 +42,9 @@ Email: kg627 [AT] scarletmail.rutgers.edu
     </td>
   </tr>
   <tr>
-    <td>
+    <td>      
       <video width="180" height="120" autoplay muted loop>
-          <source src="media/labeled_smaller_web.mp4" type="video/mp4"> 
+          <source src="https://user-images.githubusercontent.com/53358252/140593951-786298ca-7a7c-4cea-baf3-624ab57a1324.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
