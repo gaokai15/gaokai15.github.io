@@ -28,6 +28,7 @@ Email: kg627 [AT] scarletmail.rutgers.edu
     </td>
     <td>
       Fast High-Quality Tabletop Rearrangement in Bounded Workspace.
+      [<a href="media/ICRA_2022_TRLB_accompanying_video_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
       [<a href="https://github.com/arc-l/TRLBr">codes</a>]
     </td>
