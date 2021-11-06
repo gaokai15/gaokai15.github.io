@@ -57,7 +57,7 @@ Email: kg627 [AT] scarletmail.rutgers.edu
     </td>
     <td>
       [IROS 2021] Capacitated Vehicle Routing with Target Geometric Constraints.
-      [<a href="iros_pre_recorded_video_v3_compressed.mp4">video</a>]
+      [<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]
     </td>
   </tr>
