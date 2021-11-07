@@ -6,7 +6,7 @@ layout: default
 <table>
   <tr>
     <td>
-      <img width="400" src="media/me.png" alt="me"/>
+      <img width="600" align="center" src="media/me.jpg" alt="me"/>
       <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
     </td>
     <td>
