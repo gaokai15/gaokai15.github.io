@@ -80,7 +80,7 @@ S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal 
 ## Papers Under Review
 **K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
-E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
+E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
 
 
