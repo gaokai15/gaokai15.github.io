@@ -66,6 +66,12 @@ layout: default
 
 ## Publications
 
+**K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
+
+E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
+
+R. Wang, **K. Gao**, J. Yu, and K. E. Bekris. "Lazy Rearrangement Planning in Confined Spaces" the 32nd International Conference on Automated Planning and Scheduling (ICAPS 2022).
+
 **K. Gao** and J. Yu. "Capacitated Vehicle Routing with Target Geometric Constraints." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).
 
 **K. Gao**, S. W. Feng, and J Yu. "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." 2021 Robotics: Science and Systems (RSS 2021).
@@ -78,9 +84,11 @@ S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal 
 
 
 ## Papers Under Review
-**K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
-E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" submitted to 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
+**K. Gao**, B. Huang, J. Yu "Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications" submitted to The International Journal of Robotics Research (IJRR)
+
+**K. Gao** and J. Yu "Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement" summitted to 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022).
+
 
 
 
