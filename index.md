@@ -22,7 +22,7 @@ layout: default
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
-          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
+          <source src="https://user-images.githubusercontent.com/53358252/213886222-d6327658-65d3-4f33-89da-bf79e662fc81.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
