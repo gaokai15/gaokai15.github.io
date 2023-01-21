@@ -34,8 +34,8 @@ layout: default
   </tr>
   <tr>
     <td>
-      <video width="180" height="120" autoplay muted loop>
-          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
+      <video width="180" height="102" autoplay muted loop>
+          <source src="https://user-images.githubusercontent.com/53358252/213887084-382a7b25-a943-4b4a-95f9-34918cc71498.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
