@@ -10,7 +10,7 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
     </td>
     <td>
-      <p> I'm a third-year PhD candidate in Robotics at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. Currently, My research focuses on resolving combinatorial challenges in robot tasks and motion planning. Before arriving at Rutgers, I received a Bachelor's degree in Mathematics from <a href="http://en.ustc.edu.cn/"> the University of Science and Technology of China</a> in 2019.</p>
+      <p> I'm a fourth-year PhD candidate in Robotics at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. Currently, My research focuses on resolving combinatorial challenges in robot tasks and motion planning. Before arriving at Rutgers, I received a Bachelor's degree in Mathematics from <a href="http://en.ustc.edu.cn/"> the University of Science and Technology of China</a> in 2019.</p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
@@ -19,6 +19,19 @@ layout: default
 
 ## Selected Projects
 <table>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement.</p>
+      <p>[<a href="https://www.youtube.com/watch?v=ksjKV25cbG4">video</a>]
+      [<a href="https://arxiv.org/pdf/2207.08078.pdf">paper</a>]</p>
+    </td>
+  </tr>
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
@@ -66,6 +79,10 @@ layout: default
 
 ## Publications
 
+**K. Gao**, and J. Yu. "On the Utility of  Buffers in Pick-n-Swap Based Lattice Rearrangement." 2023 IEEE International Conference on Robotics and Automation (ICRA 2023).
+
+**K. Gao** and J. Yu. "Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement." 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022).
+
 **K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
 E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
@@ -85,10 +102,9 @@ S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal 
 
 ## Papers Under Review
 
-**K. Gao**, B. Huang, J. Yu "Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications" submitted to The International Journal of Robotics Research (IJRR)
-
-**K. Gao** and J. Yu "Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement" summitted to 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022).
-
-
+**K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. submitted to The International Journal of Robotics Research (IJRR).
+    
+R. Wang, **K. Gao**, Y. Miao, J. Yu and K. E. Bekris.
+``Improving Feasibility, Efficiency and Quality for Rearranging Uniform Objects in Confined Spaces.'' submitted to IEEE Transactions on Robotics (T-RO).
 
 
