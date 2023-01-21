@@ -10,7 +10,7 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
     </td>
     <td>
-      <p> I'm a fourth-year PhD candidate in Robotics at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. Currently, My research focuses on resolving combinatorial challenges in robot tasks and motion planning. Before arriving at Rutgers, I received a Bachelor's degree in Mathematics from <a href="http://en.ustc.edu.cn/"> the University of Science and Technology of China</a> in 2019.</p>
+      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fourth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on the combinatorial problems in Robotics. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as ROS and Pybullet. I also had the opportunity to build various real-world robot systems.
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
