@@ -22,14 +22,27 @@ layout: default
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>Camera Calibration Tool.</p>
+      <p>Collaboration with Justin Yu.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
           <source src="https://user-images.githubusercontent.com/53358252/213887084-382a7b25-a943-4b4a-95f9-34918cc71498.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
     <td>
-      <p>Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement.</p>
+      <p>[IROS 2022] Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement.</p>
       <p>[<a href="https://www.youtube.com/watch?v=ksjKV25cbG4">video</a>]
       [<a href="https://arxiv.org/pdf/2207.08078.pdf">paper</a>]</p>
+      <p>Supervised by Prof. Jingjin Yu</p>
     </td>
   </tr>
   <tr>
@@ -40,10 +53,11 @@ layout: default
       </video>
     </td>
     <td>
-      <p>Fast High-Quality Tabletop Rearrangement in Bounded Workspace.</p>
+      <p>[ICRA 2022] Fast High-Quality Tabletop Rearrangement in Bounded Workspace.</p>
       <p>[<a href="https://www.youtube.com/watch?v=hegO3JenKjo&t=4s">video</a>]
       [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
       [<a href="https://github.com/arc-l/TRLB">codes</a>]</p>
+      <p>Co-authored by Darren Lau, Baichuan Huang, Kostas E. Bekris, Jingjin Yu </p>
     </td>
   </tr>
   <tr>
@@ -59,6 +73,7 @@ layout: default
       [<a href="https://www.youtube.com/watch?v=hbD-cumF_H4">video</a>]
       [<a href="http://www.roboticsproceedings.org/rss17/p033.pdf">paper</a>]
       [<a href="https://github.com/arc-l/running-buffer">codes</a>]</p>
+      <p>Co-authored by Si Wei Feng, Jingjin Yu </p>
     </td>
   </tr>
   <tr>
@@ -72,12 +87,15 @@ layout: default
       <p>[IROS 2021] Capacitated Vehicle Routing with Target Geometric Constraints.</p>
       <p>[<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]</p>
+      <p>Supervised by Prof. Jingjin Yu</p>
     </td>
   </tr>
 </table>
 
 
 ## Publications
+
+**K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. submitted to The International Journal of Robotics Research (IJRR).
 
 **K. Gao**, and J. Yu. "On the Utility of  Buffers in Pick-n-Swap Based Lattice Rearrangement." 2023 IEEE International Conference on Robotics and Automation (ICRA 2023).
 
@@ -102,7 +120,11 @@ S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal 
 
 ## Papers Under Review
 
-**K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. submitted to The International Journal of Robotics Research (IJRR).
+**K. Gao**, J. Yu, T. S. Punjabi, and J. Yu.  ``Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.'' submitted to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
+
+Andy Xu\*, **K. Gao** \*, S. W. Feng\*, and J. Yu.  ``Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop.'' submitted to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
+    
+E. R. Vieira, **K. Gao**, D. Nakhimovich, J. Yu and K. E. Bekris.  ``Effective and Robust Non-Prehensile Manipulation via Persistent Homology Guided Monte-Carlo Tree Search.'' submitted to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
     
 R. Wang, **K. Gao**, Y. Miao, J. Yu and K. E. Bekris.
 ``Improving Feasibility, Efficiency and Quality for Rearranging Uniform Objects in Confined Spaces.'' submitted to IEEE Transactions on Robotics (T-RO).
