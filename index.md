@@ -22,18 +22,6 @@ layout: default
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
-          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>Camera Calibration Tool.</p>
-      <p>Collaboration with Justin Yu.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video width="180" height="120" autoplay muted loop>
           <source src="https://user-images.githubusercontent.com/53358252/213887084-382a7b25-a943-4b4a-95f9-34918cc71498.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
@@ -88,6 +76,18 @@ layout: default
       <p>[<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]</p>
       <p>Supervised by Prof. Jingjin Yu</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>Camera Calibration Tool.</p>
+      <p>Collaboration with Justin Yu.</p>
     </td>
   </tr>
 </table>
