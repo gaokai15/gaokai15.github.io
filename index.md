@@ -20,10 +20,7 @@ layout: default
 ## Selected Certificates
 
 ### Reinforcement Learning Specialization. 
-
-**Issued by:** Coursera
-
-**Issued on:** July 2023
+**Issued by:** Coursera in July 2023
 
 
 ## Skills
