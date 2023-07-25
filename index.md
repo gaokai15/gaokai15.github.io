@@ -10,7 +10,7 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
     </td>
     <td>
-      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fourth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on the combinatorial problems in Robotics. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as ROS and Pybullet. I also had the opportunity to build various real-world robot systems. </p>
+      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also had the opportunity to build various real-world robot systems. </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
@@ -19,6 +19,50 @@ layout: default
 
 ## Selected Projects
 <table>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/3fba1691-b3dd-4fd4-a4ca-c18c7ba9b949" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[IJRR] Minimizing running buffers for tabletop object rearrangement: Complexity, fast algorithms, and applications.</p>
+      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/315865f0-5fc2-4ee8-8805-90a62e5effe6">video</a>]
+      [<a href="https://journals.sagepub.com/doi/pdf/10.1177/02783649231178565">paper</a>]</p>
+      <p>Co-authored by Baichuan Huang, Si Wei Feng, Jingjin Yu</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/9c7fc68b-82ae-43b3-91c8-a5d12e14a6ea" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[IROS 2023] Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop.</p>
+      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/8185aa2b-c82e-4c6e-af79-f31ca6f8331a">video</a>]
+      [<a href="https://arxiv.org/pdf/2306.14251.pdf">paper</a>]
+      [<a href="https://github.com/arc-l/mort">codes</a>]</p>
+      <p>Co-authored by Andy Xu, Si Wei Feng, Jingjin Yu </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/3bae9848-d20b-446b-8adf-8fb17df55652" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[IROS 2023] Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.</p>
+      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/87e438da-7831-4042-a8e5-deb56c7aacd3">video</a>]
+      [<a href="https://arxiv.org/pdf/2306.14240.pdf">paper</a>]
+      [<a href="https://github.com/arc-l/TRLB">codes</a>]</p>
+      <p>Co-authored by Justin Yu, Tanay Sandeep Punjabi, Jingjin Yu </p>
+    </td>
+  </tr>
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
