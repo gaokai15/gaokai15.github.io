@@ -10,18 +10,29 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_CV.pdf">CV</a></p>
     </td>
     <td>
-      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also had the opportunity to build various real-world robot systems. </p>
+      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
 </table>
 
 
-## Selected Certificates
+## Selected Certificates \& Awards
+
+### IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)
+**Issued by:** IROS/RoboCup Federation in October 2023
+
+### Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)
+**Issued by:** China Society for Industrial and Applied Mathematics in 2017
 
 ### Reinforcement Learning Specialization. 
 **Issued by:** Coursera in July 2023
 
+### Outstanding Graduates
+**Issued by:** University of Science and Technology of China in June 2019
+
+### Outstanding Student Scholarship (2015-2016) (2017-2018)
+**Issued by:** University of Science and Technology of China in 2016, 2018
 
 ## Skills
 **Programming Languages**: Python, Matlab, C++
