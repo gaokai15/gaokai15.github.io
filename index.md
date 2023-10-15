@@ -17,21 +17,21 @@ layout: default
 </table>
 
 
-## Selected Certificates \& Awards
+## Selected Certificates & Awards
 
-### IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)
+**IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)**
 **Issued by:** IROS/RoboCup Federation in October 2023
 
-### Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)
+**Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)**
 **Issued by:** China Society for Industrial and Applied Mathematics in 2017
 
-### Reinforcement Learning Specialization. 
+**Reinforcement Learning Specialization.**
 **Issued by:** Coursera in July 2023
 
-### Outstanding Graduates
+**Outstanding Graduates**
 **Issued by:** University of Science and Technology of China in June 2019
 
-### Outstanding Student Scholarship (2015-2016) (2017-2018)
+**Outstanding Student Scholarship (2015-2016) (2017-2018)**
 **Issued by:** University of Science and Technology of China in 2016, 2018
 
 ## Skills
