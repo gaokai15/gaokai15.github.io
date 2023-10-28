@@ -11,6 +11,7 @@ layout: default
     </td>
     <td>
       <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
+      <p> <b>I'm actively looking for Robotics/AI intern positions starting from Jan. 2024 and full-time positions starting from May 2024.</b> </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
@@ -20,7 +21,7 @@ layout: default
 ## Selected Certificates & Awards
 
 **IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)**
-**Issued by:** IROS/RoboCup Federation in October 2023
+**Issued by:** IROS in October 2023
 
 **Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)**
 **Issued by:** China Society for Industrial and Applied Mathematics in 2017
@@ -178,9 +179,10 @@ layout: default
 
 ## Publications
 
+### Published First-Author
 **K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. submitted to The International Journal of Robotics Research (IJRR).
 
-**K. Gao**, J. Yu, T. S. Punjabi, and J. Yu.  ``Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.'' 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
+**K. Gao**, J. Yu, T. S. Punjabi, and J. Yu.  ``Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.'' 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023) **(Finalist of Best RoboCup Paper Award.)**.
 
 Andy Xu\*, **K. Gao** \*, S. W. Feng\*, and J. Yu.  ``Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop.'' 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
 
@@ -190,30 +192,27 @@ Andy Xu\*, **K. Gao** \*, S. W. Feng\*, and J. Yu.  ``Optimal and Stable Multi-L
 
 **K. Gao**, D. Lau, B. Huang, K. E. Bekris and J. Yu. "Fast High-Quality Tabletop Rearrangement in Bounded Workspace." 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
 
-E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
-
-R. Wang, **K. Gao**, J. Yu, and K. E. Bekris. "Lazy Rearrangement Planning in Confined Spaces" the 32nd International Conference on Automated Planning and Scheduling (ICAPS 2022).
-
 **K. Gao** and J. Yu. "Capacitated Vehicle Routing with Target Geometric Constraints." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).
 
 **K. Gao**, S. W. Feng, and J Yu. "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." 2021 Robotics: Science and Systems (RSS 2021).
 
 R. Wang\*, **K. Gao** \*, D. Nakhimovich\*, J. Yu, and K. E. Bekris. "Uniform Object Rearrangement: From Complete Monotone Primitives to Efficient Non-Monotone Informed Search." 2021 IEEE International Conference on Robotics and Automation (ICRA 2021).
 
+### Published Co-Author
+E. R. Vieira, **K. Gao**, D. Nakhimovich, J. Yu and K. E. Bekris.  "Effective and Robust Non-Prehensile Manipulation via Persistent Homology Guided Monte-Carlo Tree Search" the 18th International Symposium on Experimental Robotics (ISER 2023).
+
+E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
+
+R. Wang, **K. Gao**, J. Yu, and K. E. Bekris. "Lazy Rearrangement Planning in Confined Spaces" the 32nd International Conference on Automated Planning and Scheduling (ICAPS 2022).
+
 S. W. Feng, **K. Gao**, J. Gong, and J. Yu. "Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces." 2021 IEEE International Conference on Robotics and Automation (ICRA 2021).
 
 S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal Perimeter Guarding." 2019 Robotics: Science and Systems (RSS 2019).
 
 
+### Under Review
+**K. Gao**, Y. Ding, S. Zhang, and J. Yu "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*" Submitted to ICRA 2024.
 
-<!--
-## Papers Under Review
+H. Chang, **K. Gao**, K. Boyalakuntla, A. Lee, B. Huang, H. U. Kumar, J. Yu, and A. Boularias "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement." Submitted to ICRA 2024.
 
 
-    
-E. R. Vieira, **K. Gao**, D. Nakhimovich, J. Yu and K. E. Bekris.  ``Effective and Robust Non-Prehensile Manipulation via Persistent Homology Guided Monte-Carlo Tree Search.'' submitted to 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023).
-    
-R. Wang, **K. Gao**, Y. Miao, J. Yu and K. E. Bekris.
-``Improving Feasibility, Efficiency and Quality for Rearranging Uniform Objects in Confined Spaces.'' submitted to IEEE Transactions on Robotics (T-RO).
-
--->
