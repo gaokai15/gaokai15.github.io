@@ -76,27 +76,12 @@ layout: default
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
-          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/9c7fc68b-82ae-43b3-91c8-a5d12e14a6ea" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>[IROS 2023] Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop.</p>
-      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/8185aa2b-c82e-4c6e-af79-f31ca6f8331a">video</a>]
-      [<a href="https://arxiv.org/pdf/2306.14251.pdf">paper</a>]
-      [<a href="https://github.com/arc-l/mort">codes</a>]</p>
-      <p>Co-authored by Andy Xu, Si Wei Feng, Jingjin Yu </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video width="180" height="120" autoplay muted loop>
           <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/3bae9848-d20b-446b-8adf-8fb17df55652" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
     </td>
     <td>
-      <p>[IROS 2023] Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.</p>
+      <p>[IROS 2023] Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops. <b>(Finalist of Best RoboCup Paper Award.)</b></p>
       <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/87e438da-7831-4042-a8e5-deb56c7aacd3">video</a>]
       [<a href="https://arxiv.org/pdf/2306.14240.pdf">paper</a>]
       [<a href="https://github.com/arc-l/TRLB">codes</a>]</p>
@@ -119,21 +104,6 @@ layout: default
   </tr>
   <tr>
     <td>
-      <video width="180" height="102" autoplay muted loop>
-          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>[ICRA 2022] Fast High-Quality Tabletop Rearrangement in Bounded Workspace.</p>
-      <p>[<a href="https://www.youtube.com/watch?v=hegO3JenKjo&t=4s">video</a>]
-      [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
-      [<a href="https://github.com/arc-l/TRLB">codes</a>]</p>
-      <p>Co-authored by Darren Lau, Baichuan Huang, Kostas E. Bekris, Jingjin Yu </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <video width="180" height="120" autoplay muted loop>
           <source src="media/labeled_smaller_web.mp4" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
@@ -146,6 +116,52 @@ layout: default
       [<a href="http://www.roboticsproceedings.org/rss17/p033.pdf">paper</a>]
       [<a href="https://github.com/arc-l/running-buffer">codes</a>]</p>
       <p>Co-authored by Si Wei Feng, Jingjin Yu </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>Camera Calibration Software Measuring Perception Accuracy of RealSense Cameras.</p>
+      <p>Collaboration with Justin Yu.</p>
+    </td>
+  </tr>
+</table>
+
+## Other projects
+<table>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/9c7fc68b-82ae-43b3-91c8-a5d12e14a6ea" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[IROS 2023] Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop.</p>
+      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/8185aa2b-c82e-4c6e-af79-f31ca6f8331a">video</a>]
+      [<a href="https://arxiv.org/pdf/2306.14251.pdf">paper</a>]
+      [<a href="https://github.com/arc-l/mort">codes</a>]</p>
+      <p>Co-authored by Andy Xu, Si Wei Feng, Jingjin Yu </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="102" autoplay muted loop>
+          <source src="https://user-images.githubusercontent.com/53358252/140593972-e803b282-1116-4a70-8777-70d2f5716515.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[ICRA 2022] Fast High-Quality Tabletop Rearrangement in Bounded Workspace.</p>
+      <p>[<a href="https://www.youtube.com/watch?v=hegO3JenKjo&t=4s">video</a>]
+      [<a href="https://arxiv.org/abs/2110.12325">paper</a>]
+      [<a href="https://github.com/arc-l/TRLB">codes</a>]</p>
+      <p>Co-authored by Darren Lau, Baichuan Huang, Kostas E. Bekris, Jingjin Yu </p>
     </td>
   </tr>
   <tr>
@@ -162,20 +178,7 @@ layout: default
       <p>Supervised by Prof. Jingjin Yu</p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <video width="180" height="120" autoplay muted loop>
-          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>Camera Calibration Tool.</p>
-      <p>Collaboration with Justin Yu.</p>
-    </td>
-  </tr>
 </table>
-
 
 ## Publications
 
