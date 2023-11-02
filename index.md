@@ -11,7 +11,7 @@ layout: default
     </td>
     <td>
       <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
-      <p> <b>I'm actively looking for Robotics/AI intern positions starting from Jan. 2024 and full-time positions starting from May 2024.</b> </p>
+      <p> <b>I'm actively looking for Robotics/AI intern positions starting from Jan. 2024 and full-time positions in 2024.</b> </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
