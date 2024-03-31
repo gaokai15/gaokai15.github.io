@@ -60,22 +60,6 @@ layout: default
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
-          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/46a9ac46-b972-4a25-90b0-8a435b0e593c" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>[Summitted to ICRA 2024] ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*.</p>
-      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/1f21c862-4019-4010-b8db-857362cf02b6">video</a>]
-      [<a href="http://arxiv.org/abs/2309.13707">paper</a>]
-      [<a href="https://gaokai15.github.io/ORLA-Star/">project page</a>]
-      </p>
-      <p>Co-authored by Yan Ding, Shiqi Zhang, Jingjin Yu</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <video width="180" height="120" autoplay muted loop>
           <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/3fba1691-b3dd-4fd4-a4ca-c18c7ba9b949" type="video/mp4"> 
           <p>Your browser does not support the video tag.</p>
       </video>
