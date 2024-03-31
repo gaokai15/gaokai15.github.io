@@ -10,7 +10,7 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_CV_2023.pdf">CV</a></p>
     </td>
     <td>
-      <p> I'm a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
+      <p> I am an Applied Scientist Co-op at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a> and a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
       <p> <b>I'm actively looking for Robotics/AI intern positions starting from Jan. 2024 and full-time positions in 2024.</b> </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
@@ -43,6 +43,20 @@ layout: default
 
 ## Selected Projects
 <table>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/6d3ab966-8940-4af9-808b-211c7d248cf7" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[Summitted to IROS 2024] Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement.</p>
+      <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/046cc3a5-43c6-44fb-b29e-4da351d120a9">video</a>]
+      </p>
+      <p>Co-authored by Zihe Ye, Duo Zhang, Jingjin Yu</p>
+    </td>
+  </tr>
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
@@ -214,8 +228,8 @@ S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal 
 
 
 ### Under Review
-**K. Gao**, Y. Ding, S. Zhang, and J. Yu "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*" Submitted to ICRA 2024.
+**K. Gao** \*, Z. Ye\*, D. Zhang\*, B. Huang, and J. Yu "Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement." Submitted to IROS 2024.
 
-H. Chang, **K. Gao**, K. Boyalakuntla, A. Lee, B. Huang, H. U. Kumar, J. Yu, and A. Boularias "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement." Submitted to ICRA 2024.
+H. Chang, **K. Gao**, K. Boyalakuntla, A. Lee, B. Huang, H. U. Kumar, J. Yu, and A. Boularias "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement." Submitted to IROS 2024.
 
 
