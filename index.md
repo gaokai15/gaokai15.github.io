@@ -10,8 +10,7 @@ layout: default
       <p align="center"><a href="media/Kai_Gao_Resume_2024.pdf">CV</a></p>
     </td>
     <td>
-      <p> I am an Applied Scientist Co-op at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a> and a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. As a fifth-year Robotics Ph.D. with a Mathematics bachelor's degree, my research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
-      <p> <b>I'm actively looking for Robotics/AI full-time positions in 2024.</b> </p>
+      <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a> and a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. My research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
       <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
     </td>
   </tr>
@@ -51,7 +50,7 @@ layout: default
       </video>
     </td>
     <td>
-      <p>[Summitted to IROS 2024] Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement.</p>
+      <p>Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement.</p>
       <p>[<a href="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/046cc3a5-43c6-44fb-b29e-4da351d120a9">video</a>]
       </p>
       <p>Co-authored by Zihe Ye, Duo Zhang, Jingjin Yu</p>
