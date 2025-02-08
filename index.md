@@ -7,11 +7,11 @@ layout: default
   <tr>
     <td>
       <img width="600" align="center" src="media/me.jpg" alt="me"/>
-      <p align="center"><a href="media/Kai_Gao_Resume_2024.pdf">CV</a></p>
+      <p align="center"><a href="media/Kai_Gao_Resume_2025.pdf">CV</a></p>
     </td>
     <td>
-      <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a> and a Robotics PhD candidate at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. My research focuses on Task and Motion Planning. And During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
-      <p> Email: kg627 [AT] scarletmail.rutgers.edu</p>
+      <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a>. My research focuses on planning and control for robotics manipulation. Before joining Amazon, I pursued my PhD at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
+      <p> Email: kaigao627 [AT] gmail.com</p>
     </td>
   </tr>
 </table>
@@ -180,7 +180,12 @@ layout: default
 ## Publications
 
 ### Published First-Author
-**K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. submitted to The International Journal of Robotics Research (IJRR).
+
+**K. Gao**, F Wang, E Aduh, D Randle, and J Shi. "MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
+
+**K. Gao**, Yan Ding, Shiqi Zhang, and J. Yu. "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
+
+**K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. The International Journal of Robotics Research (IJRR).
 
 **K. Gao**, J. Yu, T. S. Punjabi, and J. Yu.  ``Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops.'' 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023) **(Finalist of Best RoboCup Paper Award.)**.
 
@@ -199,6 +204,8 @@ Andy Xu\*, **K. Gao** \*, S. W. Feng\*, and J. Yu.  ``Optimal and Stable Multi-L
 R. Wang\*, **K. Gao** \*, D. Nakhimovich\*, J. Yu, and K. E. Bekris. "Uniform Object Rearrangement: From Complete Monotone Primitives to Efficient Non-Monotone Informed Search." 2021 IEEE International Conference on Robotics and Automation (ICRA 2021).
 
 ### Published Co-Author
+H. Chang, **K. Gao**, K. Boyalakuntla, A. Lee, B. Huang, H. U. Kumar, J. Yu, and A. Boularias "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement." 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024).
+
 E. R. Vieira, **K. Gao**, D. Nakhimovich, J. Yu and K. E. Bekris.  "Effective and Robust Non-Prehensile Manipulation via Persistent Homology Guided Monte-Carlo Tree Search" the 18th International Symposium on Experimental Robotics (ISER 2023).
 
 E. R. Vieira, D. Nakhimovich, **K. Gao**, R. Wang, J. Yu and K. E. Bekris. "Persistent Homology for Effective Non-Prehensile Manipulation" 2022 IEEE International Conference on Robotics and Automation (ICRA 2022).
@@ -209,10 +216,5 @@ S. W. Feng, **K. Gao**, J. Gong, and J. Yu. "Sensor Placement for Globally Optim
 
 S. W. Feng, S. D. Han, **K. Gao**, and J. Yu. "Efficient Algorithms for Optimal Perimeter Guarding." 2019 Robotics: Science and Systems (RSS 2019).
 
-
-### Under Review
-**K. Gao** \*, Z. Ye\*, D. Zhang\*, B. Huang, and J. Yu "Toward Holistic Planning and Control Optimization for Dual-Arm Rearrangement." Submitted to IROS 2024.
-
-H. Chang, **K. Gao**, K. Boyalakuntla, A. Lee, B. Huang, H. U. Kumar, J. Yu, and A. Boularias "LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement." Submitted to IROS 2024.
 
 
