@@ -7,7 +7,7 @@ layout: default
   <tr>
     <td>
       <img width="600" align="center" src="media/me.jpg" alt="me"/>
-      <p align="center"><a href="media/Kai_Gao_Resume_2025.pdf">CV</a></p>
+      <p align="center"><a href="media/Kai_Gao_CV_2025.pdf">CV</a></p>
     </td>
     <td>
       <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a>. My research focuses on planning and control for robotics manipulation. Before joining Amazon, I pursued my PhD at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
