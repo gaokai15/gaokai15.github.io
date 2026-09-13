@@ -7,41 +7,45 @@ layout: default
   <tr>
     <td>
       <img width="600" align="center" src="media/me.jpg" alt="me"/>
-      <p align="center"><a href="media/Kai_Gao_CV_2025.pdf">CV</a></p>
+      <p align="center"><a href="media/Kai_Gao_CV_2026.pdf">CV</a></p>
     </td>
     <td>
-      <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Robotics</a>. My research focuses on planning and control for robotics manipulation. Before joining Amazon, I pursued my PhD at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. During my research projects, I acquired a diverse range of experience in robotics, including perception, deep learning, and utilizing physics engines such as Isaac Gym and Pybullet. I also built various real-world robot systems. </p>
+      <p> I am an Applied Scientist at <a href="https://www.amazon.science/research-areas/robotics">Amazon Industrial Robotics Group</a>. My research focuses on dexterous manipulation and policy learning. Before joining Amazon, I pursued my PhD at <a href="https://www.rutgers.edu/">Rutgers University</a>, working with Professor <a href="https://arc-l.github.io/">Jingjin Yu</a>. My recent work centers on learning-based dexterous manipulation: training transformer-based visuomotor policies and robotics foundation models, building imitation-learning and behavior-cloning pipelines, and scaling teleoperation-driven data collection for real-world manipulation. I also have broad experience across perception, deep learning, physics simulation (Isaac Gym, PyBullet), and building real-world robot systems. </p>
       <p> Email: kaigao627 [AT] gmail.com</p>
     </td>
   </tr>
 </table>
 
 
-## Selected Certificates & Awards
-
-**IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)**
-**Issued by:** IROS in October 2023
-
-**Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)**
-**Issued by:** China Society for Industrial and Applied Mathematics in 2017
-
-**Reinforcement Learning Specialization.**
-**Issued by:** Coursera in July 2023
-
-**Outstanding Graduates**
-**Issued by:** University of Science and Technology of China in June 2019
-
-**Outstanding Student Scholarship (2015-2016) (2017-2018)**
-**Issued by:** University of Science and Technology of China in 2016, 2018
-
-## Skills
-**Programming Languages**: Python, Matlab, C++
-
-**Tools**: Git, ROS, PyBullet, Gazebo, OpenCV, PyTorch, Gurobi, Drake, Isaac Gym
-
-
 ## Selected Projects
 <table>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="media/must_success.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[ICRA 2025] MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress.</p>
+      <p>[<a href="https://arxiv.org/abs/2502.02753">paper</a>]</p>
+      <p>Co-authored by Fan Wang, Erica Aduh, Dylan Randle, Jiuguang Shi</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="media/orla_demo.mp4" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>[ICRA 2025] ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star.</p>
+      <p>[<a href="https://gaokai15.github.io/ORLA-Star/">project page</a>]
+      [<a href="https://arxiv.org/abs/2309.13707">paper</a>]</p>
+      <p>Co-authored by Yan Ding, Shiqi Zhang, Jingjin Yu</p>
+    </td>
+  </tr>
   <tr>
     <td>
       <video width="180" height="120" autoplay muted loop>
@@ -115,19 +119,31 @@ layout: default
       <p>Co-authored by Si Wei Feng, Jingjin Yu </p>
     </td>
   </tr>
-  <tr>
-    <td>
-      <video width="180" height="120" autoplay muted loop>
-          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
-          <p>Your browser does not support the video tag.</p>
-      </video>
-    </td>
-    <td>
-      <p>Camera Calibration Software Measuring Perception Accuracy of RealSense Cameras.</p>
-      <p>Collaboration with Justin Yu.</p>
-    </td>
-  </tr>
 </table>
+
+
+## Selected Certificates & Awards
+
+**IROS 2023 Finalist of Best RoboCup Paper Award. (Top 6\% among accepted papers)**
+**Issued by:** IROS in October 2023
+
+**Gold Award of China Undergrad. Math. Contest in Modeling in Anhui Province (1/65 in USTC)**
+**Issued by:** China Society for Industrial and Applied Mathematics in 2017
+
+**Reinforcement Learning Specialization.**
+**Issued by:** Coursera in July 2023
+
+**Outstanding Graduates**
+**Issued by:** University of Science and Technology of China in June 2019
+
+**Outstanding Student Scholarship (2015-2016) (2017-2018)**
+**Issued by:** University of Science and Technology of China in 2016, 2018
+
+## Skills
+**Programming Languages**: Python, Matlab, C++
+
+**Tools**: Git, ROS, PyBullet, Gazebo, OpenCV, PyTorch, Gurobi, Drake, Isaac Gym
+
 
 ## Other projects
 <table>
@@ -173,6 +189,18 @@ layout: default
       <p>[<a href="media/iros_pre_recorded_video_v3_compressed.mp4">video</a>]
       [<a href="https://arxiv.org/pdf/2107.10382.pdf">paper</a>]</p>
       <p>Supervised by Prof. Jingjin Yu</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <video width="180" height="120" autoplay muted loop>
+          <source src="https://github.com/gaokai15/gaokai15.github.io/assets/53358252/2831d0e5-6ccb-451f-8288-880a9da42795" type="video/mp4"> 
+          <p>Your browser does not support the video tag.</p>
+      </video>
+    </td>
+    <td>
+      <p>Camera Calibration Software Measuring Perception Accuracy of RealSense Cameras.</p>
+      <p>Collaboration with Justin Yu.</p>
     </td>
   </tr>
 </table>
