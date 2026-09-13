@@ -29,7 +29,7 @@ layout: default
     <td>
       <p>[ICRA 2025] MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress.</p>
       <p>[<a href="https://arxiv.org/abs/2502.02753">paper</a>]</p>
-      <p>Co-authored by Fan Wang, Erica Aduh, Dylan Randle, Jiuguang Shi</p>
+      <p>Co-authored by Fan Wang, Erica Aduh, Dylan Randle, Jane Shi</p>
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ layout: default
       <p>[ICRA 2025] ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star.</p>
       <p>[<a href="https://gaokai15.github.io/ORLA-Star/">project page</a>]
       [<a href="https://arxiv.org/abs/2309.13707">paper</a>]</p>
-      <p>Co-authored by Yan Ding, Shiqi Zhang, Jingjin Yu</p>
+      <p>Co-authored by Zhaxizhuoma, Yan Ding, Shiqi Zhang, Jingjin Yu</p>
     </td>
   </tr>
   <tr>
