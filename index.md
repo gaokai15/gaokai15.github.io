@@ -209,9 +209,9 @@ layout: default
 
 ### Published First-Author
 
-**K. Gao**, F Wang, E Aduh, D Randle, and J Shi. "MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
+**K. Gao**, F. Wang, E. Aduh, D. Randle, and J. Shi. "MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
 
-**K. Gao**, Yan Ding, Shiqi Zhang, and J. Yu. "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
+**K. Gao**, Zhaxizhuoma, Y. Ding, S. Zhang, and J. Yu. "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A Star." 2025 IEEE International Conference on Robotics and Automation (ICRA 2025).
 
 **K. Gao**, S. W. Feng, B. Huang and J. Yu. Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications. The International Journal of Robotics Research (IJRR).
 
@@ -227,7 +227,7 @@ Andy Xu\*, **K. Gao** \*, S. W. Feng\*, and J. Yu.  ``Optimal and Stable Multi-L
 
 **K. Gao** and J. Yu. "Capacitated Vehicle Routing with Target Geometric Constraints." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021).
 
-**K. Gao**, S. W. Feng, and J Yu. "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." 2021 Robotics: Science and Systems (RSS 2021).
+**K. Gao**, S. W. Feng, and J. Yu. "On Minimizing the Number of Running Buffers for Tabletop Rearrangement." 2021 Robotics: Science and Systems (RSS 2021).
 
 R. Wang\*, **K. Gao** \*, D. Nakhimovich\*, J. Yu, and K. E. Bekris. "Uniform Object Rearrangement: From Complete Monotone Primitives to Efficient Non-Monotone Informed Search." 2021 IEEE International Conference on Robotics and Automation (ICRA 2021).
 
